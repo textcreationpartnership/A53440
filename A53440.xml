@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation concerning a cessation of armes agreed and concluded on at Siggings-towne, in the county of Kildare, the fifteenth day of September, in the ninteenth [sic] yeer of His Majesties raigne, by and between Iames Marques of Ormonde, Lieutenant Generall of His Majesties Army, in the kingdom of Ireland, for &amp; in the name of our Gratious [sic] Soveraigne Lord Charles ... bearing date at Dublin the last of August, in the said ninteenth [sic] year of His Majesties raigne, of the one party, and Donogh Viscount Muskery, Sir Lucas Dillon, Knight, Nicholas Plunkett, Esquire, Sir Robert Talbot, Baronet,  Sir Richard Barnewell, Baronet Torlogh ô Neale, Geffrey Browne, Ever Mac-Gennis, &amp; Iohn Walsh, Esquires ... to treat and conclude with the said Marques for a cessation of armes by vertue of an authority given unto them bearing date at Cahsell, the 7 day of September, in the said ninteenth [sic] yeare of His Majesties raigne, of the other party : whereunto is added an instrument touching the manner of payment of 30800 pound sterling by severall payments.</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53440</idno>
+            <idno type="STC">Wing O457_VARIANT</idno>
+            <idno type="STC">ESTC R223502</idno>
+            <idno type="EEBO-CITATION">12990815</idno>
+            <idno type="OCLC">ocm 12990815</idno>
+            <idno type="VID">96334</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96334)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 724:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation concerning a cessation of armes agreed and concluded on at Siggings-towne, in the county of Kildare, the fifteenth day of September, in the ninteenth [sic] yeer of His Majesties raigne, by and between Iames Marques of Ormonde, Lieutenant Generall of His Majesties Army, in the kingdom of Ireland, for &amp; in the name of our Gratious [sic] Soveraigne Lord Charles ... bearing date at Dublin the last of August, in the said ninteenth [sic] year of His Majesties raigne, of the one party, and Donogh Viscount Muskery, Sir Lucas Dillon, Knight, Nicholas Plunkett, Esquire, Sir Robert Talbot, Baronet,  Sir Richard Barnewell, Baronet Torlogh ô Neale, Geffrey Browne, Ever Mac-Gennis, &amp; Iohn Walsh, Esquires ... to treat and conclude with the said Marques for a cessation of armes by vertue of an authority given unto them bearing date at Cahsell, the 7 day of September, in the said ninteenth [sic] yeare of His Majesties raigne, of the other party : whereunto is added an instrument touching the manner of payment of 30800 pound sterling by severall payments.</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>by William Bladen ...,</publisher>
+                  <pubPlace>Printed at Dublin :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96334:1"/>
+            <pb facs="tcp:96334:1"/>
+            <p>A PROCLAMATION CONCERNING A CES<g ref="char:EOLhyphen"/>SATION OF ARMES. Agreed and Concluded on at <hi>Siggings<g ref="char:EOLhyphen"/>towne,</hi> in the County of <hi>Kildare,</hi> the fifteenth day of <hi>September.</hi> in the ninteenth yeare of his Majeſties Raigne, by and between <hi>Iames</hi> Marques of <hi>Ormonde,</hi> Lieutenant Generall of His Majeſties Army, in the Kingdom, of <hi>Ireland,</hi> for &amp; in the Name of our Gratious Soveraigne Lord CHARLES, by the grace of God, King of great Brittain, <hi>France</hi> &amp; <hi>Ireland,</hi> &amp;c. by Vertue of his Majeſties Com<g ref="char:EOLhyphen"/>miſſion bearing date at <hi>Dublin</hi> the laſt of <hi>August.</hi> in the ſaid ninteenth year of His Majeſties Raigne, of the one party. And <hi>Donogh</hi> Viſcount <hi>Muskery,</hi> Sir <hi>Lucas Dillon,</hi> Knight. <hi>Nicholas Plunkett,</hi> Eſquire. Sir <hi>Robert Talbot,</hi> Baronet Sir <hi>Richard Barnewell,</hi> Baronet. <hi>Torlogh ô Neale, Geffrey Browne, Ever Mac-Gennis,</hi> &amp; <hi>Iohn Walſh,</hi> Eſquires. Authorized by His Majeſties Roman Catholique Subjects, of whoſe party they are and now in Armes in the ſaid Kingdom, &amp;c. To Treat and Conclude with the ſaid Marques for a Ceſſation of Armes by Vertue of an Authority given unto them bearing date at <hi>Caſhell,</hi> the 7. day of <hi>September.</hi> in the ſaid ninteenth yeare of His Majeſties Raigne, of the other party. Whereunto is added an inſtrument touching the manner of payment of 30800. pound ſterling by ſeverall Payments.</p>
+            <p>Printed at Dublin, By <hi>William Bladen,</hi> Printer to the Kings moſt Excellent Majeſty, <hi>Anno Dom.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <div type="proclamation">
+               <pb facs="tcp:96334:2"/>
+               <pb n="1" facs="tcp:96334:2"/>
+               <head>By the Lords Iuſtices and Councell.</head>
+               <opener>
+                  <salute>
+                     <list>
+                        <item>
+                           <hi>Io. Borlaſe.</hi>
+                        </item>
+                        <item>
+                           <hi> Hen. Tichborne.</hi>
+                        </item>
+                     </list>
+                  </salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">V</seg>Pon conſideration had of the annexed Ar<g ref="char:EOLhyphen"/>ticles of Ceſſation of Armes, wherby it is concluded and accorded, that there be a Ceſſation of Armes, and of all Acts of Hoſtility: for one whole yeare beginning the fifteenth day of September. Anno Domini, one
+<pb n="2" facs="tcp:96334:3" rendition="simple:additions"/>thouſand ſix hundred forty three, at the houre of twelve of the clock of the ſaid day. We the Lords Iuſtices and Councell according to his Majeſties Letters of the one and thirtyeth of Iuly laſt, doe by this Proclamati<g ref="char:EOLhyphen"/>on in his Majeſties Name ratifie, confirme, and Pub<g ref="char:EOLhyphen"/>liſh the ſame. And doe require all his Majeſties Sub<g ref="char:EOLhyphen"/>jects, whom it may concerne by Sea and by Land, to take notice thereof and yeeld all Obedience therevnto, in all the parts thereof.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given at his Majeſties Caſtle of DUBLIN,</hi> 
+                     <date>
+                        <hi>the ninteenth of September. 1643.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>R. Bolton. Canc.</hi>
+                        </item>
+                        <item>
+                           <hi> La. Dublin.</hi>
+                        </item>
+                        <item>
+                           <hi> Ormonde.</hi>
+                        </item>
+                        <item>
+                           <hi> Roſcomon.</hi>
+                        </item>
+                        <item>
+                           <hi> Edw. Brabazon.</hi>
+                        </item>
+                        <item>
+                           <hi> Ant. Midenſis.</hi>
+                        </item>
+                        <item>
+                           <hi> Cha. Lambart.</hi>
+                        </item>
+                        <item>
+                           <hi> Geo. Shurley.</hi>
+                        </item>
+                        <item>
+                           <hi> Gerrard Lowther.</hi>
+                        </item>
+                        <item>
+                           <hi> Tho. Rotherham.</hi>
+                        </item>
+                        <item>
+                           <hi> Fr. Willoughby.</hi>
+                        </item>
+                        <item>
+                           <hi> Tho. Lucas.</hi>
+                        </item>
+                        <item>
+                           <hi> Ia. Ware.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <closer>GOD SAVE THE KING.</closer>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>Imprinted at Dublin by <hi>William Bladen,</hi> Printer to the Kings moſt Excellent Majeſtie. <hi>Anno Dom.</hi> 1643.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:96334:3" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">A</seg>Rticles of Ceſſation of Armes, agreed, and conclu<g ref="char:EOLhyphen"/>ded on at <hi>Siggingstowne,</hi> in the County of <hi>Kildare,</hi> the 15. day of <hi>September.</hi> in the ninteenth yeare of His Majeſties Raigne, by &amp; between <hi>Iames</hi> Mar<g ref="char:EOLhyphen"/>ques of <hi>Ormond,</hi> Lieutenant Generall of his Majeſties Ar<g ref="char:EOLhyphen"/>my, in the Kingdome of <hi>Ireland.</hi> for and in the Name of our Glarious Soveraigne Lord CHARLES, by the grace of God, King of great Brittaine, <hi>France,</hi> and <hi>Ireland,</hi> &amp;c. by Vertue of His Majeſties Commiſſion bearing date at <hi>Dublin,</hi> the laſt of <hi>Auguſt.</hi> in the ſaid 19. yeare of his Majeſties Raigne, of the one part; And <hi>Donogh</hi> Viſcount <hi>Muskery,</hi> Sir <hi>Lucas Dil<g ref="char:EOLhyphen"/>lon,</hi> Knight. <hi>Nicholas Plunket,</hi> Eſquire. <hi>Sir Robert Talbot,</hi> Baro<g ref="char:EOLhyphen"/>net. <hi>Sir Richard Barnewell,</hi> Baronet. <hi>Torlogh O Neale, Geffrey Brown, Ever Mac-Gennis,</hi> &amp; <hi>Iohn Walſh,</hi> Eſquires. Authorized by His Majeſties Roman Catholique Subjects, of whoſe par<g ref="char:EOLhyphen"/>ty they are, and now in Armes in the ſaid Kingdome, &amp;c. to Treate and Conclude with the ſaid Marques for a Ceſſation of Armes, by Vertue of an Authority given unto them, bea<g ref="char:EOLhyphen"/>ring date at <hi>Caſhell,</hi> the 7. day of <hi>September.</hi> in the ſaid nin<g ref="char:EOLhyphen"/>teenth yeare of His Majeſties Raigne, of the other part.</p>
+            <p>
+               <hi>Firſt.</hi> It is concluded and accorded, that there be a Ceſſation of Armes, and of all Acts of Hoſtility, between His Ma<g ref="char:EOLhyphen"/>jeſties ſaid Roman Catholique Subjects, who are now in Armes, &amp;c. in this Kingdome, and their party, and all others His Majeſties good Subjects, for one whole yeare to begin the fifteenth day of <hi>September. Anno Dom.</hi> 1643. at the howre of 12. of the clock of the ſaid day.</p>
+            <p>
+               <hi>Item.</hi> It is concluded and accorded that free Paſſage, Enter-courſe, Commerce, and Traffique, during the ſaid Ceſſation,
+<pb n="4" facs="tcp:96334:4" rendition="simple:additions"/>ſhal be between His Majeſties ſaid Roman Catholique Sub<g ref="char:EOLhyphen"/>jects, who are now in Armes, &amp;c. and their party, and all o<g ref="char:EOLhyphen"/>thers His Majeſties good Subjects, and all others in League with his Majeſty by Sea and Land.</p>
+            <p>
+               <hi>Item.</hi> It is concluded and accorded, and the ſaid Viſcount <hi>Muskery,</hi> and the reſt of the above named Perſons, doe pro<g ref="char:EOLhyphen"/>miſe and undertake, for and in the behalfe of thoſe for whom they are Authorized to treat and Conclude as aforeſaid. That all Ships, Burques, and Veſſells, which ſhall bring Provi<g ref="char:EOLhyphen"/>ſions to any Harbour in this Kingdom, in the hands or poſſeſ<g ref="char:EOLhyphen"/>ſions of ſuch as ſhall Obey the Articles of this Ceſſation, from <hi>Minehead</hi> and <hi>Whitehaven,</hi> and from all the Ports betweene, on that ſide where <hi>Wales</hi> is ſcituate, ſo as they, be Ships be<g ref="char:EOLhyphen"/>longing to any of the ſaid Ports, and doe not vſe any Acts of Hoſtility to any of the ſaid Roman Catholiques, who are now in Armes, or to any of their party, or to any who ſhal be waged or Imployed unto or by them, ſhall not be interrupted by any of their party, nor by any Ships or other Veſſells, of what Countrey or Nation ſoever under their Power or Com<g ref="char:EOLhyphen"/>mand, or waged, Imployed, or contracted with on their be<g ref="char:EOLhyphen"/>halfe, or by any Forts, Garriſons, or Forces, within this Kingdome under their Power, in their coming to this King<g ref="char:EOLhyphen"/>dom, or returning from thence.</p>
+            <p>
+               <hi>Item.</hi> It is concluded and accorded, and the ſaid Lord Viſ<g ref="char:EOLhyphen"/>count <hi>Muskery,</hi> and the reſt of the above named partyes doe promiſe and undertake for and in the behalfe of thoſe for whom they are Authorized, as aforeſaid, that all Ships, Barques, and Veſſells, which ſhall bring Proviſions to any Harbour in this Kingdom, in the hands of ſuch as ſhall obey the Articles of this Ceſſation from any Ports in the Kingdom
+<pb n="5" facs="tcp:96334:4" rendition="simple:additions"/>of <hi>England,</hi> having His Majeſties paſſe, or the paſſe of any who is, or ſhalbe His Majeſties Admirall or Vice-Admi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all, or the paſſe of any Governor or Governors of any the Ports in <hi>England,</hi> in His Majeſties Hands, or which ſhall hereafter during this Ceſſation, be in his Majeſties Hands, or the paſſe of the ſaid Marques, ſhall not be interrupted, by any of thoſe for whom the ſaid Lord Viſcount <hi>Muskery,</hi> &amp; the reſt of the a<g ref="char:EOLhyphen"/>bove named Perſons are Authorized as aforeſaid, neither in their comming to this Kingdom, or in their returne, ſo as they uſe not any acts of hoſtility to any of their ſaid party. And this to be a rule untill His Majeſties pleaſure be farther declared therein, upon application of the Agents of the ſaid Roman Catholique Subjects now in Armes, &amp;c. to His Majeſtie.</p>
+            <p>
+               <hi>Item.</hi> It is concluded and accorded, and the ſaid <hi>Iames</hi> Mar<g ref="char:EOLhyphen"/>ques of <hi>Ormonde,</hi> doth promiſe and undertake for and in the Name of His Majeſty, that no interruption ſhall begiv<g ref="char:EOLhyphen"/>en by any Ship, or Ships, under his Majeſties power &amp; com<g ref="char:EOLhyphen"/>mand, or waged, Imployed, or contracted with, by or in the behalfe of his Majeſty or by any of his Majeſties Forts, Garri<g ref="char:EOLhyphen"/>ſons, or Forces, within this Kingdome, to any Ship, or Ships, that ſhall trade with any of the ſaid Roman Catholiques who are now in Armes, &amp;c. or any of their party; or which ſhall come in, or goe out of any the Cityes, Townes, Harbours, Creeks, or Ports, of this Kingdome, in the hands of the ſaid Roman Catholiques now in Armes, &amp;c. with Armes, Am<g ref="char:EOLhyphen"/>munition, Merchandize, Commodity, or any thing whatſo<g ref="char:EOLhyphen"/>ever, during this Ceſſation: as on the other ſide, the ſaid <hi>Don<g ref="char:EOLhyphen"/>nogh</hi> Viſcount <hi>Muskery,</hi> and the reſt above named of that par<g ref="char:EOLhyphen"/>ty, doe promiſe and undertake, for and in the behalfe of thoſe by whom they are Authorized, that no interruption ſhall be given by any Ship, or other Veſſell whatſoever, under
+<pb n="6" facs="tcp:96334:5" rendition="simple:additions"/>the power &amp; Command of their party, or waged, Imployed, or contracted with, by or in the behalfe of their party, or by any Forts, Garriſons, or Forces, within this Kingdome, in their power, to any Ship, or Ships, that ſhall trade with any of His Majeſties Subjects, obeying this Ceſſation, or which ſhall come in, or go out of any of the Cityes, Towns Harbours or Ports of this Kingdome, which ſhall obey this Ceſſation, with Armes, Amunition, Merchandize, Commodity, or any other thing whatſoever during this Ceſſation. Provi<g ref="char:EOLhyphen"/>ded that no Ship, or Ships, ſhal be admitted free Trade, by colour of this Article, but ſuch as are warranted by the pre<g ref="char:EOLhyphen"/>cedent Articles.</p>
+            <p>
+               <hi>Item.</hi> It is Concluded and accorded, that the quarters in the Province of <hi>Leinſter</hi> be as followeth. <hi>viz.</hi> That the County of <hi>Dublin,</hi> the County of the City of <hi>Dublin,</hi> the County of the Towne of <hi>Droghedagh,</hi> and the County of <hi>Lowth,</hi> ſhall re<g ref="char:EOLhyphen"/>maine and be during the Ceſſation, in the poſſeſſion of his Majeſties Proteſtant Subjects, and of ſuch as adhaere vnto them reſpectiuely, ſaving and excepting vnto the ſaid Roman Catholique Subjects, now in Armes &amp;c. and their party, all ſuch Caſtles, Townes, Lands, Territories, and the Lands and hereditaments thereunto belonging, which upon the ſaid fifteenth day of <hi>September,</hi> 1643. at the houre aforeſaid are poſſeſſed in the ſaid Counties, or any of them, by any of the ſaid party And it is further concluded &amp; accorded that as much of the County of <hi>Meath,</hi> as in the Eaſt and South ſide of the river of <hi>Boyne,</hi> from <hi>Droghedagh</hi> to <hi>Trym,</hi> &amp; thence to the Lordſhip of <hi>Moylagh,</hi> and thence to <hi>Moyglare,</hi> and thence to <hi>Dublin,</hi> ſhall during the ſaid Ceſſation remaine and be in the poſſeſſion of His Majeſties Proteſtant Subjects, &amp; of ſuch as adhaere vnto them reſpectively
+<pb n="7" facs="tcp:96334:5" rendition="simple:additions"/>reſpectively, ſauing and excepting to the ſaid Roman Catho<g ref="char:EOLhyphen"/>lique Subjects now in Armes, &amp; their party, all ſuch Caſtles, Townes, Lands, &amp; Territories, &amp; the Lands hereditaments therunto belonging, which vpon the ſaid fifteenth day of <hi>September.</hi> 1643. at the houre aforeſaid are poſſeſſed by any of the ſaid Roman Catholique Subjects, now in Armes, &amp;c. and of their party, within the ſaid limits, &amp; boundaries, and that the Reſidue of the ſaid County of <hi>Meath</hi> ſhal remaine in the hands &amp; poſſeſſion of the ſaid Roman Catholique Subjects now in Armes, &amp;c. and their party, except the Caſtles, Townes, Lands, Territories, &amp; the Lands and hereditaments thereunto belonging, which upon the ſaid fifteenth day of <hi>September,</hi> 1643. at the howre aforeſaid are poſſeſſed within the ſaid laſt mentioned quarters in the County of <hi>Meath</hi> by His Majeſties Proteſtant Subjects, and ſuch as adhaere vnto them, or by any of them reſpectively. And that ſoe much of the County of <hi>Kildare,</hi> as is on this ſide of the <hi>Liffy</hi> where <hi>Naas</hi> is ſcituate, and on the other ſide of the <hi>Liffy</hi> from <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> weſtward into the County of <hi>Kildare,</hi> ſoe far as the <hi>Rye</hi> water at <hi>Kilcock,</hi> and ſoe farre betwixt that and the <hi>Liffye,</hi> as ſhalbe at the ſame diſtance from <hi>Dublin</hi> as the ſaid <hi>Rye</hi> water is at <hi>Kilcock,</hi> on that ſide of the <hi>Lyffie;</hi> ſhall during the ſaid Ceſſation, remaine and be in the hands and poſſeſſions of his Majeſties Proteſtant Subjects and their adhaerents reſpective<g ref="char:EOLhyphen"/>ly, except ſuch Caſtles, Townes, Territories, &amp; the Lands &amp; hereditaments therunto belonging, which upon the ſaid fif<g ref="char:EOLhyphen"/>teenth day of <hi>September,</hi> 1643. at the howre aforeſaid are poſ<g ref="char:EOLhyphen"/>ſeſſed within the ſaid quarters by the ſaid Roman Catholique Subjects who are now in Armes, &amp;c. and their party; &amp; that the reſidue of the ſaid County of <hi>Kildare,</hi> ſhall remaine in the
+<pb n="8" facs="tcp:96334:6" rendition="simple:additions"/>hands of the ſaid Roman Catholique Subjects now in Armes &amp;c. and their partie, except Such Caſtles, Townes, Lands Territories, and the Lands and Hereditaments therunto be<g ref="char:EOLhyphen"/>longing, which upon the ſaid fifteenth day of <hi>September</hi> 1643 at the houre aforeſaid are poſſeſſed by his Majeſties Pro<g ref="char:EOLhyphen"/>teſtant Subjects and their adhaerents reſpectively within the ſaid laſt mentioned quarters in the ſaid County of <hi>Kildare.</hi> And that the ſeuerall Countyes of <hi>Wicklow,</hi> weſt <hi>Meath Kings County, Queens County, Catherlagh, Kilkenny,</hi> county of the City of <hi>Kilkenny, Weixford,</hi> and <hi>Longford</hi> ſhall during the ſaid Ceſ<g ref="char:EOLhyphen"/>ſation remaine in the hands of the ſaid Roman Catholique Subjects now in Armes &amp;c. and their party, except ſuch Caſ<g ref="char:EOLhyphen"/>tles, Towns, Lands, Territories, and the Lands and heredita<g ref="char:EOLhyphen"/>ments therunto belonging which upon the ſaid fifteenth day of <hi>September,</hi> 1643. at the houre aforeſaid, are poſſeſſed within the ſaid County, by His Majeſties Proteſtant Subjects, and their adhaerents reſpectiuely.</p>
+            <p>
+               <hi>Item.</hi> It is concluded and accorded, that what <hi>Corne,</hi> hath been ſowen by any of his Majeſties Army, or by any of his proteſtants Subjects, or their adhaerents or by any of them, within any of the quarters alotted in the Province of <hi>Leinster,</hi> to the ſaid other party, the ſame ſhal be enjoyed by the ſowers &amp; manurers paying for the ſame as they did agree &amp; in caſe they did not agree paying the fourth ſheafe vnto ſuch garriſon within whoſe quarters the ſame ſhal fall. And that in caſe any of the ſaid Roman Catholique Subjects, now in Armes, &amp;c. or any of their party have ſowne corne within any the quar<g ref="char:EOLhyphen"/>ters alotted in the <hi>Province</hi> of <hi>Leinſter,</hi> to the ſaid other party, the ſame ſhall be enjoyed by the ſowers and manurers, paying for the ſame as they did agree, and in caſe they did not agree paying the forth ſheafe unto ſuch Garriſons, within whoſe
+<pb n="9" facs="tcp:96334:6" rendition="simple:additions"/>whoſe quarters the ſame ſhall fall. And it is likewiſe conclu<g ref="char:EOLhyphen"/>ded and accorded, that thoſe places which have been protec<g ref="char:EOLhyphen"/>ted, by the Lords Iuſtices, or any Officer of His Majeſties Army, doe pay according to the agreement which was made, and if no agreement were made, to pay the fourth Sheafe, to thoſe Garriſons or perſons who protected them, in whoſe ſo<g ref="char:EOLhyphen"/>ever quarters they are, And this to continue for a rule, other then as to ſo many of thoſe Garriſons, who granted ſuch pro<g ref="char:EOLhyphen"/>tection, and are ſince regained by the ſaid party, or ſome of them, for whom the ſaid <hi>Donnogh</hi> Viſcount <hi>Muskery,</hi> and the perſons above name are Authorized as aforeſaid. And that the Tenants of the Towne of <hi>Balliboght</hi> in the County of <hi>Dublin</hi> if they haue not been protected ſhall pay according to agreement &amp; if no agreement made then the fourth ſheafe, and to continue their poſſeſſions during this Ceſſation. And it is further concluded and accorded, that where His Majeſty, or any of His Proteſtant Subjects, or their adhaerents ſhall happen to have any Garriſon or Garriſons within the quarters ſet forth in the next precedent article, for the ſaid other party, that ſuch Gariſon &amp; Garriſons, ſhal have ſuch competency of the lands, aſwel profitable as unprofitable, now tearmed waſt, as ſhall be found neceſſary for them by any indifferent Com<g ref="char:EOLhyphen"/>miſſioners, to be appointed for that purpoſe.</p>
+            <p>
+               <hi>Item.</hi> It is concluded and accorded, that the quarters in the Province of <hi>Munſter</hi> be as followeth, <hi>viz.</hi> That the Coun<g ref="char:EOLhyphen"/>ty of the Citty of <hi>Corcke,</hi> and ſo much of the County of <hi>Corcke,</hi> as is within the ſubſequent Garriſons, <hi>viz.</hi> From <hi>Youghall</hi> to <hi>Mogeely,</hi> thence to <hi>Formeye,</hi> thence to <hi>Michellstowne,</hi> thence to <hi>Liſcarroll,</hi> and ſo in a line from <hi>Michellstowne,</hi> and <hi>Liſcarroll</hi> northward, as farre as His Majeſties out Gatriſons
+<pb n="10" facs="tcp:96334:7" rendition="simple:additions"/>on that ſide doe extend, and from <hi>Liſcarroll,</hi> to <hi>Mallow</hi> thence to <hi>Corcke,</hi> thence to <hi>Carrig-Craghan,</hi> thence to <hi>Rochfordstowne,</hi> thence to <hi>Bandonbridge,</hi> thence to <hi>Timmoleagie,</hi> and thence for<g ref="char:EOLhyphen"/>ward to the Sea, together with the ſaid Garriſons ſhall du<g ref="char:EOLhyphen"/>ring the ſaid Ceſſation remaine, &amp; be in the poſſeſſion of his Majeſties Proteſtant Subjects &amp; of ſuch as adhaere vnto them: Saving and excepting to the ſaid Roman Catholique Subjects now in Armes &amp;c. and their party all ſuch Caſtles, Townes, Lands, Territories, and the Lands and hereditaments there<g ref="char:EOLhyphen"/>unto belonging, which on the ſaid fifteenth day of <hi>September.</hi> 1643. at the houre aforeſaid are poſſeſſed in the ſaid Coun<g ref="char:EOLhyphen"/>tyes, or any of them by any of the ſaid Roman Catholique Subjects now in Armes, &amp;c. and their party. And that the reſidue of the ſaid County of <hi>Corcke,</hi> ſhall likewiſe remaine to the ſaid party laſt named, ſaving and excepting to His Ma<g ref="char:EOLhyphen"/>jeſties Proteſtant Subjects, &amp; their adhaerents al ſuch Caſtles, Townes, Lands, Territoryes, and the Lands, and heredita<g ref="char:EOLhyphen"/>ments therunto belonging, which on the ſaid fifteenth day of <hi>September,</hi> 1643, at the houre aforeſaid, are poſſeſſed in the laſt mentioned quarters by them, or any of them. And that the County of <hi>Tipperary,</hi> the County of <hi>Limerick,</hi> the Coun<g ref="char:EOLhyphen"/>ty of the City of <hi>Limericke,</hi> the County of <hi>Kerry,</hi> the County of <hi>Waterford,</hi> the County of the City of <hi>Waterford,</hi> and the County of <hi>Clare,</hi> ſhall during the ſaid Ceſſation remaine and be in the poſſeſſion of the ſaid Roman Catholique Sub<g ref="char:EOLhyphen"/>jects now in Armes, &amp;c. and their party. Except <hi>Knock<g ref="char:EOLhyphen"/>morne, Ardmore, Piltowne, Cappoquin, Ballinetra, Stroncally, Lismore, Balliduffe, Lisfinny,</hi> and <hi>Tallowe,</hi> all ſcituare in the County of <hi>Waterford,</hi> or as many of them as are poſſeſſed by His Majeſties Proteſtant Subjects, and their adhaerents, the
+<pb n="11" facs="tcp:96334:7" rendition="simple:additions"/>the ſaid fifteenth day of <hi>September,</hi> 1643. at the houre afore<g ref="char:EOLhyphen"/>ſaid, and likewiſe except all ſuch Caſtles, Townes, Lands, Territories, and Hereditaments therunto belonging as with<g ref="char:EOLhyphen"/>in the ſaid Countyes reſpectively, on the ſaid fifteenth day of <hi>September.</hi> 1643. at the houre aforeſaid are poſſeſſed by a<g ref="char:EOLhyphen"/>ny of His Majeſties Proteſtant Subjects, or ſuch as adhaere unto that party reſpectively, in the ſaid County of <hi>Waterford,</hi> and the reſt of the laſt mentioned Countyes. And it is con<g ref="char:EOLhyphen"/>cluded and accorded, that the like rule for Corne ſowen, and what ſhall be payed by places protected, and for the laying out waſts for the reſpectiue Garriſons, ſhalbe obſerved in the Province of <hi>Munster,</hi> as it is ſet downe for <hi>Leinster.</hi>
+            </p>
+            <p>
+               <hi>Item.</hi> It is concluded and accorded that the quarters in the Prouince of <hi>Vlſter;</hi> be as follweth: viz. That ſuch Countyes, Baronyes, Lands, Tenements, and hereditaments in the Pro<g ref="char:EOLhyphen"/>vince of <hi>Vlster,</hi> which the ſaid fifteenth of <hi>September,</hi> 1643. at the houre aforeſaid, are poſſeſſed by any of his Majeſties Proteſtant Subjects, or any that adhaere vnto them, and all Places protected by any Commander during Authority from his Majeſty, ſhall during the ſaid Ceſſation remaine en<g ref="char:EOLhyphen"/>tirely in the hands and in the poſſeſſion of his Majeſties Pro<g ref="char:EOLhyphen"/>teſtant Subjects, and ſuch as adhaere unto them, excepting ſuch Caſtles, Lands, and hereditaments, as on the fifteenth day of <hi>September,</hi> 1643. at the houre aforeſaid, are poſſeſſed by the ſaid Roman Catholique Subjects now in Armes, &amp;c. or their partie. And that all ſuch Counties, Baronyes, Lands, tenements, and hereditaments, in the ſaid Province, which on the ſaid fifteenth of <hi>September,</hi> 1643. at the houre afore<g ref="char:EOLhyphen"/>ſaid, are poſſeſſed by the ſaid Roman Catholique Subjects now in Armes, &amp;c. and their party ſhall remaine entirely du<g ref="char:EOLhyphen"/>ring
+<pb n="12" facs="tcp:96334:8" rendition="simple:additions"/>this Ceſſation in the hands and Poſſeſſion of the ſaid Ro<g ref="char:EOLhyphen"/>man Catholique Subjects now in Armes &amp;c. and their party ſaving and excepting therout all places protected by any Commander, deriving Authority from his Majeſty, and like<g ref="char:EOLhyphen"/>wiſe excepting therout all ſuch Territories, Caſtles, Towns, Lands, Tenements, and hereditaments, which on the ſaid fif<g ref="char:EOLhyphen"/>teenth day of <hi>Septemper,</hi> 1643. at the houre aforeſaid are poſ<g ref="char:EOLhyphen"/>ſeſſed by any of his Majeſties Proteſtant Subjects, or ſuch as adhaere vnto them. And it is concluded and accorded that the like rule for Corne ſowne, and what ſhal be payed for pro<g ref="char:EOLhyphen"/>tected places; and for the laying downe of waſts for the re<g ref="char:EOLhyphen"/>ſpective Gariſons, ſhall be obſerved in the Province of <hi>Vlſter,</hi> as is ſet downe for <hi>Leinſter.</hi>
+            </p>
+            <p>
+               <hi>Item.</hi> It is Concluded &amp; accorded, that the quarters in the Province of <hi>Connaght,</hi> be as followeth, viz. that the County of <hi>Galway,</hi> the County of the Towne of <hi>Galway,</hi> the Counties of <hi>Mayo, Roſcomon, Sligo,</hi> and <hi>Letrym,</hi> in the Province of <hi>Con<g ref="char:EOLhyphen"/>naght,</hi> and all ſuch Caſtles, Lands, Tenements and heredita<g ref="char:EOLhyphen"/>ments in the ſaid Province which the ſaid fifteenth day of <hi>September,</hi> 1643. at the houre aforeſaid are poſſeſſed by the ſaid Roman Catholique Subjects, now in Armes &amp;c. &amp; their party, ſhall during the ſaid Ceſſation remaine entirely in the poſſeſſion of the ſaid Roman Catholique Subjectes, now in Armes and ther party, excepting all ſuch Territories, Caſtles, Lands, Tenements and hereditaments within the ſaid ſeveral Countyes which upon the ſaid fifteenth of <hi>September,</hi> 1643. at the houre aforeſaid are poſſeſſed by any of his Majeſties Forces, or by their party, or by any of them, and that thoſe who after taking protection of any of His Majeſties Forces, or any of that party or from any Governors, de<g ref="char:EOLhyphen"/>riving
+<pb n="13" facs="tcp:96334:8" rendition="simple:additions"/>Authority from his Majeſty there, haue Ioyned themſelves to the ſaid Roman Catholique Subiects now in Armes, &amp;c. and their party, ſhall pay no Contribution unto ſuch who protected them. But in regard there may be a rule different touching perſons that may be ſaid to doe this, and conſequenly touching the Contributions payable by them. Is is concluded and accorded that ſuch diſputes and queſtions if any ſhall ariſe, be deter<g ref="char:EOLhyphen"/>mined by Commiſſioners indifferently choſen on each fide, and it is concluded and accorded, that the like rule for ſowers and manurers of corne within the quar<g ref="char:EOLhyphen"/>ters of each other, ſhall be obſerved in the Province of <hi>Con<g ref="char:EOLhyphen"/>naght,</hi> as is ſet down for <hi>Leinſter.</hi>
+            </p>
+            <p>
+               <hi>Item</hi> It is Concluded and accorded, and the ſaid Mar<g ref="char:EOLhyphen"/>ques of <hi>Ormond,</hi> for and in the Name of his Majeſty doth pro<g ref="char:EOLhyphen"/>miſe and undertake, that no interruption ſhall be given unto any of the ſaid Roman Catholique Subjects now in Armes, &amp;c. or their party, in any of the ſaid Countyes, quarters, or places by the ſaid precedent Articles vnto them or any of them limited as aforeſaid, during this Ceſſation; like as the ſaid <hi>Donnogh</hi> Viſcount <hi>Muskery,</hi> and the reſt of the aboue named perſons who are authorized as aforeſaid do promiſe and undertake, that no Interruption ſhall be giuen vnto any of His Majeſties Forces, Proteſtant Subjects, or ſuch as adhaere unto them, within any of the ſaid Countyes, quarters or places, by the precedent Articles limited vnto them as aforeſaid, during the ſaid Ceſſation.</p>
+            <p>
+               <hi>Item.</hi> It is Concluded and accorded, that no Officer of the Army or Souldier of either ſide, ſhall be admitted with out licence from the Commander in cheife of the Army on both ſides, or of the Commander of the next Cheife gariſons
+<pb n="14" facs="tcp:96334:9" rendition="simple:additions"/>reſpectiuely to paſſe or repaire into any Garriſon on either ſide, ſaue that it be lawfull for either party to furniſh any Garriſon in their power daring the Ceſſation, with Victualls, Cloath, amunition or other neceſſaryes by licence as afore<g ref="char:EOLhyphen"/>ſaid, which is not to be denyed upon demand.</p>
+            <p>
+               <hi>Item.</hi> It is concluded and accorded, that if any Army or Forces in this Kingdome raiſed by his Majeſties authority or any part therof, or any other his Majeſties Subjects ſhall not yeild obedience to the Articles of this Ceſſation, but ſhall publiquely ſtand in oppoſition therunto; that the ſaid Roman Catholique Subjects now in Armes &amp;c. and their party may perſecute ſuch: and the ſaid <hi>Iames</hi> Marques of <hi>Ormonde</hi> doth promiſe and undertake that ſuch who ſhall ſo ſtand in oppoſition, ſhall not be aſſiſted, protected, or be<g ref="char:EOLhyphen"/>fended againſt the ſaid Roman Catholique Subjects now in Armes &amp;c. or their party, by his Majeſty or any of his Forces. And yet neuertheleſſe the ſame ſhall not be under<g ref="char:EOLhyphen"/>ſtood to be any breach of Ceſſation, as to other parts of the Kingdome, which ſhall conforme and yeild therunto. And wheras the aſſiſtance of his Majeſties Forces is deſired by the ſaid Roman Catholique Subjects now in Armes &amp;c. againſt ſuch as ſhall oppoſe the Articles of this Ceſſation and will not yeild obedience therunto, or interrupt the trade and Traffique, albeit that it is not to be ſuppoſed that there will be any ſuch the ſaid <hi>Iames</hi> Marques of <hi>Ormonde.</hi> doth further promiſe and undertake, that their ſaid requeſt ſhal be made knowne to his Majeſty, and vpon ſignification of his pleaſure the ſame ſhall be obeyed.</p>
+            <p>
+               <hi>Item.</hi> It is concluded and accorded, that if in otheir caſes it be pretended on either ſide that the Ceſſation is violated,
+<pb n="14" facs="tcp:96334:9" rendition="simple:additions"/>that yet no act of Hoſtility is immediately to follow, but firſt the party complayning is to acquaint the Lord Gene<g ref="char:EOLhyphen"/>rall, Lieutenant Generall, or other cheife Commander of ei<g ref="char:EOLhyphen"/>ther ſide in that Province, in which the ſaid Ceſſation is pretended to be violated therwith, and to allow fourteene dayes after notice giuen, for reparation or ſatiſfaction, and in caſe reparation or ſatiſfaction be not given or tendred, then fourteene dayes notice to be given before Hoſtility be<g ref="char:EOLhyphen"/>gin.</p>
+            <p>
+               <hi>Item.</hi> It is Concluded and accorded, that all Priſoners and hoſtages of both ſides in all parts of the Kingdome, excepting ſuch of them as are indicted of any Capitall of<g ref="char:EOLhyphen"/>fence, ſhal be mutually releaſed and ſet at liberty within ſea<g ref="char:EOLhyphen"/>ven dayes after publication of the ſaid Ceſſation. And the ſaid Marques of <hi>Ormonde,</hi> doth further promiſe and Vnder<g ref="char:EOLhyphen"/>take; that ſuch Priſoners who inedited of any Capital offence, ſhall be ſet at liberty vpon Baile, vntill His Majeſties fur<g ref="char:EOLhyphen"/>ther Pleaſure be knowne therin. Provided neuertheleſſe that if any party of His Majeſties Army in any other Pro<g ref="char:EOLhyphen"/>vince of the Kingdome, ſhall not within ten dayes after Publication of theſe Articles, yeild obedience thereunto; that the ſame ſhal be no breach of Ceſſation, but that His Majeſty be firſt made acquainted with ſuch Diſobedience, and his direction expected therin: &amp; that al other perſons that do reſide with either party, and all Women and Children ſhall be permitted within ſeaven dayes after publiſhing of this Ceſſation, or when they pleaſe, with their goods &amp; Chattles, to depart to what place they pleaſe, with a ſafe conduct or convoy if they deſire it.</p>
+            <p>
+               <hi>Item.</hi> It is Concluded and accorded, that the ſaid Ro<g ref="char:EOLhyphen"/>man
+<pb n="15" facs="tcp:96334:10" rendition="simple:additions"/>Catholique Subjects, now in Armes, &amp;c. and their party, may at any time during the Ceſſation ſend ſuch Agents to His Majeſty as they ſhall thinke fit: And that the ſaid Agents ſhall have ſafe conduct in writing from the Cheife Governor or Governors of this Kingdome for the time being upon demand.</p>
+            <p>
+               <hi>Item.</hi> It is Concluded and accorded, and the ſaid Marques of <hi>Ormonde,</hi> doth promiſe and undertake for and in the Name of His Majeſty, that all and every of the precedent Articles, which have been agreed unto, and undertaken by the ſaid Marques, for and in the behalfe of His Majeſty, ſhall be faith<g ref="char:EOLhyphen"/>fully, truly, and inviolably obſerved, fulfilled, and kept. And the ſaid Viſcount <hi>Muskery,</hi> Sir <hi>Lucas Dillon,</hi> Knight. <hi>Nicholas Plunket,</hi> Eſquire. Sir <hi>Robert Talbot,</hi> Baronet. Sir <hi>Richard Barnewell, Torlogh ô Neale, Ever Mac-Gennis, Geffey Browne,</hi> and <hi>Iohn Walſh,</hi> Eſquires. For and in the behalfe of the ſaid Roman Catholique Subjects, now in Armes, &amp;c. and their party doe promiſe and undertake, that all and every of the precedent Articles, which have agreed unto and undertaken by them, for and in the behalfe of their party, ſhall be faithfully, truly, and inviolably obſerved, fulfilled, and kept.</p>
+            <p>
+               <hi>Laſtly.</hi> It is Concluded and accorded, that all poſſeſſions, and likewiſe all goods and chattles, that ſhall be found <hi>in Spe<g ref="char:EOLhyphen"/>cie,</hi> taken by either party, after the houre of twelue aforeſaid, and before publication of this Ceſſation, ſhall be reſtored to the Owners, and after publication all poſſeſſion and goods that ſhal be taken, to be reſtored to the Owners upon demand, or dammages for the ſame.</p>
+            <p>
+               <hi>In witneſſe</hi> wherof the ſaid Marques to the party of the ſaid Articles remaining with the ſaid Viſcount <hi>Muskery,</hi> and the
+<pb n="16" facs="tcp:96334:10" rendition="simple:additions"/>reſt of the above named perſons, hath put his hand and Seale. And the ſaid Viſcount <hi>Muskery,</hi> Sir <hi>Lucas Dillon,</hi> Knight. <hi>Ni<g ref="char:EOLhyphen"/>cholas Plunket,</hi> Eſquire. Sir <hi>Robert Talbot,</hi> Barronet. Sir <hi>Richard Barnewell,</hi> Baronet. <hi>Torlogh ô Neale, Geffry Browne, Ever Mac-Gennis,</hi> and <hi>Iohn Walſh,</hi> Eſquires. To that part of the Articles remaining with the ſaid Marques <hi>Ormonde,</hi> have put their hands and Seales, the day and yeare, firſt above written.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Muskry.</hi>
+                     </item>
+                     <item>
+                        <hi> Lucas Dillon.</hi>
+                     </item>
+                     <item>
+                        <hi> Nic. Plunket.</hi>
+                     </item>
+                     <item>
+                        <hi> Rob. Talbot</hi>
+                     </item>
+                     <item>
+                        <hi> Rich. Barnewell.</hi>
+                     </item>
+                     <item>
+                        <hi> Torl. ô Neale.</hi>
+                     </item>
+                     <item>
+                        <hi> Geffry Browne.</hi>
+                     </item>
+                     <item>
+                        <hi> Ever Magennis.</hi>
+                     </item>
+                     <item>
+                        <hi> Io. Walſh.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>An inſtrument touching the manner of payment of 30800. pound ſterling by ſeverall Payments.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Heras by an Inſtrument bearing date with theſe preſents, we have in the behalfe, and by Authority from the Roman Catholiques of this Kingdome, ſteely given unto His Majeſty the ſum of thirty thouſand pounds ſterling, wherein the times or manner of payments, are not expreſſed. We doe therfore hereby agree, that the ſame ſhall be paid in manner following, <hi>viz.</hi> 5000 pounds with in one month next after the date of theſe preſent, the one halfe in money, and the other halfe in good and Merchantable Beeves, not un<g ref="char:EOLhyphen"/>der foure, or above ten years old, at the rate of 30. pounds
+<pb n="17" facs="tcp:96334:11" rendition="simple:additions"/>the ſcore, at the City of <hi>Dublin,</hi> 5000. pounds more: with<g ref="char:EOLhyphen"/>in one month, next after the ſaid firſt month, the one halfe in money and the other halfe in Beeves as aforeſaid, at the like rates at the City of <hi>Dublin,</hi> aforeſaid, alſo within two months next after, five thouſand pounds more, whereof one halfe in Beeves, as aforeſaid, at the like Rates, and the other halfe in money, One other five thouſand Pounds, at or before the laſt of <hi>February</hi> next, and the ſam of 10000. pounds being the laſt payment of the ſaid Thirty thouſand pounds, at or before the laſt day of <hi>May</hi> next, which ſhal be in the yeare 1644. And We hereby further agree that Eight 100. pounds more ſhal be paid to his Majeſties <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to whom the Lords Iuſtices ſhall appoint at the Garriſon of <hi>Naas,</hi> with<g ref="char:EOLhyphen"/>in two months next enſuing, the one halfe by one months end next after the date hereof, and the other halfe by the end of one month more, next after that firſt month, all other pay<g ref="char:EOLhyphen"/>ments in money, ſave the Eight hundred pounds ſhall be paid at <hi>Dublin,</hi> and the reſt of the Beeves, ſave the ſaid firſt two payments, to be paid within the ſeverall Provinces to His Majeſties uſe, to ſuch perſons as ſhal be appointed by His Ma<g ref="char:EOLhyphen"/>jeſties Lords Iuſtices, or other Cheife Governor or Gover<g ref="char:EOLhyphen"/>nors in this Kingdome, they firſt giving notice to Us, or a<g ref="char:EOLhyphen"/>ny one or more of Us, of their pleaſures therin. <hi>In Witneſſe</hi> wherof, We have hereunto put our Hands and Seales the ſix<g ref="char:EOLhyphen"/>teenth day of <hi>September,</hi> 1643.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Muskery.</hi>
+                     </item>
+                     <item>
+                        <hi> Lucas Dillon.</hi>
+                     </item>
+                     <item>
+                        <hi> Nic. Plunket.</hi>
+                     </item>
+                     <item>
+                        <hi> Rob. Talbot.</hi>
+                     </item>
+                     <item>
+                        <hi> R. Barnewell.</hi>
+                     </item>
+                     <item>
+                        <hi> Ter. Neale.</hi>
+                     </item>
+                     <item>
+                        <hi> Geffry Browne.</hi>
+                     </item>
+                     <item>
+                        <hi> Ever Magennis.</hi>
+                     </item>
+                     <item>
+                        <hi> Jo. Walſh.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96334:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
